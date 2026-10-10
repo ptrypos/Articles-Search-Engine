@@ -44,3 +44,11 @@ The application will build a Lucene index from `resources/CNN_Articles_clean.csv
 ## Troubleshooting
 - If indexing fails, delete the `resources/index` directory and restart the app to trigger a rebuild.
 - Ensure your working directory is the repository root when running so relative paths to `resources/` resolve correctly.
+
+## 👨‍💻 Author
+
+**Panagiotis Trypos**
+
+* [Website / Portfolio](https://ptrypos.me)
+* [GitHub Profile](https://github.com/ptrypos)
+* [LinkedIn](https://www.linkedin.com/in/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%84%CF%81%CF%8D%CF%80%CE%BF%CF%82-983abb242)
