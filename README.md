@@ -88,5 +88,5 @@ Alternatively, import the project into **Eclipse** (the `.project` / `.classpath
 - [GitHub](https://github.com/ptrypos)
 - [LinkedIn](https://www.linkedin.com/in/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%84%CF%81%CF%8D%CF%80%CE%BF%CF%82-983abb242)
 
-**Thanos Tonios**
+**Athanasios Tonios**
 - [GitHub](https://github.com/athanasios-tonios)
